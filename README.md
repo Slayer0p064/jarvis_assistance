@@ -1,4 +1,4 @@
-# This is an Jarvis Assistance Desktop Application which is developed on Kivy and Pythin Using API
+# This is an Jarvis Assistance Desktop Application which is developed on Kivy and Python Using API
 # This Contains a backend and a frontend(kivy_app)
 # backend contains app.py(Server to connect the app with the frontend)
 # frontend contains main.py(kivy built application to provide responses)
